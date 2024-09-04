@@ -1,0 +1,16 @@
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\bin\Debug\net6.0-windows\LunchOrder.exe
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\bin\Debug\net6.0-windows\LunchOrder.deps.json
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\bin\Debug\net6.0-windows\LunchOrder.runtimeconfig.json
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\bin\Debug\net6.0-windows\LunchOrder.dll
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\bin\Debug\net6.0-windows\LunchOrder.pdb
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\LunchOrder.Form1.resources
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\LunchOrder.csproj.GenerateResource.cache
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\LunchOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\LunchOrder.AssemblyInfoInputs.cache
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\LunchOrder.AssemblyInfo.cs
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\LunchOrder.csproj.CoreCompileInputs.cache
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\LunchOrder.dll
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\refint\LunchOrder.dll
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\LunchOrder.pdb
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\LunchOrder.genruntimeconfig.cache
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week2\LunchOrder\LunchOrder\obj\Debug\net6.0-windows\ref\LunchOrder.dll
